@@ -25,7 +25,7 @@
         - `limit: 10` 으로 최대 10개만 검색.
     - my page
         - 로그인된 유저의 아이디로 작성된 레시피 데이터 추출 (유저가 작성한 레시피 확인)
-        - `include`를 통해 favorite에 recipe 테이블 left join (좋아요한 레시피 확인)
+        - `include`를 통해 favorite에 recipe 테이블 left join (좋아요  레시피 확인)
 
 ### 레시피 페이지
 
